@@ -1,8 +1,10 @@
-# BAY FRONT
+# <img src="logo.png" alt="Bay Front Logo" width="60"/> BAY FRONT
+
+![Website Preview](preview.png)
 
 Welcome to **Bay Front** — your destination for immersive audio experiences. Curated with passion and precision, Bay Front is a hub for high-quality music, genre-bending remixes, and a vibe that resonates far beyond the screen.
 
-## 🔻 Overview
+## Overview
 
 Bay Front isn't just another music site. It's a digital sanctuary where rhythm meets design. With a futuristic UI and seamless navigation, the platform offers a blend of artistry, technology, and sound.
 
@@ -10,21 +12,21 @@ Bay Front isn't just another music site. It's a digital sanctuary where rhythm m
 - Unique, interactive interface  
 - Built for listeners who appreciate detail and quality  
 
-## 🧩 Features
+## Features
 
 - Sleek and animated UI with modern design principles  
 - Optimized performance and fast loading times  
 - Built using modern web technologies  
 - Audio-focused experience  
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Framework**: React + Vite  
 - **Deployment**: Vercel  
 - **Styling**: Tailwind CSS, Radial Gradients  
 - **Animation**: CSS Transitions + JS effects  
 
-## 🧭 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -47,11 +49,11 @@ Bay Front isn't just another music site. It's a digital sanctuary where rhythm m
    npm run build
    ```
 
-## 🌐 Live Preview
+## Live Preview
 
 Visit the site at: [https://bay-front.vercel.app](https://bay-front.vercel.app)
 
-## 🎧 Vision
+## Vision
 
 Bay Front aims to grow into a platform where sound isn't just heard — it's felt. Stay tuned as we continue evolving into a space where art meets audio in motion.
 
