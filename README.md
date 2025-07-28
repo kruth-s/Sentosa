@@ -1,62 +1,59 @@
-# <img src="logo.png" alt="Bay Front Logo" width="60"/> BAY FRONT
+# 🎶 Sentosa
 
-![Website Preview](preview.png)
+> _Redefining how music feels, not just how it sounds._
 
-Welcome to **Bay Front** — your destination for immersive audio experiences. Curated with passion and precision, Bay Front is a hub for high-quality music, genre-bending remixes, and a vibe that resonates far beyond the screen.
-
-## Overview
-
-Bay Front isn't just another music site. It's a digital sanctuary where rhythm meets design. With a futuristic UI and seamless navigation, the platform offers a blend of artistry, technology, and sound.
-
-- Curated music and remixes  
-- Unique, interactive interface  
-- Built for listeners who appreciate detail and quality  
-
-## Features
-
-- Sleek and animated UI with modern design principles  
-- Optimized performance and fast loading times  
-- Built using modern web technologies  
-- Audio-focused experience  
-
-## Tech Stack
-
-- **Framework**: React + Vite  
-- **Deployment**: Vercel  
-- **Styling**: Tailwind CSS, Radial Gradients  
-- **Animation**: CSS Transitions + JS effects  
-
-## Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/bay-front.git
-   cd bay-front
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for production**
-   ```bash
-   npm run build
-   ```
-
-## Live Preview
-
-Visit the site at: [https://bay-front.vercel.app](https://bay-front.vercel.app)
-
-## Vision
-
-Bay Front aims to grow into a platform where sound isn't just heard — it's felt. Stay tuned as we continue evolving into a space where art meets audio in motion.
+Sentosa is a next-gen music streaming web app designed to elevate your audio experience with **superior sound quality**, **smooth UI animations**, and an interface that feels more alive and immersive than ever before. Inspired by the power of Spotify, but crafted with even more attention to visual detail, responsiveness, and emotion.
 
 ---
 
-Crafted with precision. Tuned for impact.
+## 🚀 Features
+
+- 🎧 **High-Fidelity Audio** – Enjoy music like never before with crystal-clear streaming.
+- 💫 **Lively UI/UX** – Beautiful, fluid animations that make navigation a joy.
+- 🌙 **Dark Mode First** – Because music sounds better in the dark.
+- 🔍 **Smart Search** – Find your favorite songs, artists, and playlists in milliseconds.
+- 📱 **Responsive Design** – Works flawlessly on mobile, tablet, and desktop.
+
+---
+
+## 🛠️ Built With
+
+- **React / Next.js**
+- **Tailwind CSS** – for sleek, modern styling.
+- **Framer Motion** – for animations that flow like music.
+- **Node.js / Express** – backend power.
+- **MongoDB** – to store your beats.
+- **Howler.js / Web Audio API** – for audio playback magic.
+
+---
+
+## 📸 Screenshots
+
+### 🖼️ Home UI  
+![Sentosa Home](https://raw.githubusercontent.com/kruth-s/Sentosa/main/assets/home-ui.png)
+
+### 🎵 App Logo  
+<img src="https://raw.githubusercontent.com/kruth-s/Sentosa/main/assets/sentosa-logo.png" alt="Sentosa Logo" width="120"/>
+
+---
+
+## 🔮 Vision
+
+Sentosa aims to be more than just another Spotify clone. It’s a **mood**, an **experience**, and a platform built for those who care deeply about both music **and** how they interact with it.
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/kruth-s/Sentosa.git
+
+# Go into the project
+cd Sentosa
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
